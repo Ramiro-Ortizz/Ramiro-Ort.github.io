@@ -1,0 +1,14 @@
+body,html {
+   height: 100vh;
+   width: 100%;
+   overflow: hidden;
+   background-color: #A6ADB9;
+   margin: 0; /* Elimina el margen */
+   padding: 0;
+}
+
+.fondo{
+    height:800px ;
+    width: 450px;
+    background-color: #08367E;
+}
