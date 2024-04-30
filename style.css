@@ -13,13 +13,13 @@ body,html {
     height: 700px;
     background-color: #1A397F;
     float: left; /* Hace que el elemento flote a la izquierda */
-    margin-left: 170px;
+    margin-left: 200px;
 
 }
 
 .fondo2{
     box-sizing: border-box;
-    width: 600px;
+    width: 550px;
     height: 700px;
     background-color: white;
     float: left; /* Hace que el elemento flote a la izquierda */
