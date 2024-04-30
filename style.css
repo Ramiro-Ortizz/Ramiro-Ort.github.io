@@ -7,8 +7,95 @@ body,html {
    padding: 0;
 }
 
-.fondo{
-    height:800px ;
-    width: 450px;
-    background-color: #08367E;
+.fondo1{
+    box-sizing: border-box;
+    width: 300px;
+    height: 700px;
+    background-color: #1A397F;
+    float: left; /* Hace que el elemento flote a la izquierda */
+    margin-left: 170px;
+
+}
+
+.fondo2{
+    box-sizing: border-box;
+    width: 600px;
+    height: 700px;
+    background-color: white;
+    float: left; /* Hace que el elemento flote a la izquierda */
+
+}
+
+#img{
+    margin-left: 45px;
+    border-radius: 20px;
+}
+
+#inicio{
+    font-family: "Bebas Neue", sans-serif;
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+#info{
+    font-family: "Raleway", sans-serif;
+    color: white;
+    margin-left: 8px;
+    
+}
+
+.separador{
+    border-bottom: 1px solid white;
+    padding: 10px;
+    margin: 17px;
+}
+
+#inicio2{
+    font-family: "Bebas Neue", sans-serif;
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+#l1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 8px ;
+}
+
+#l1-p{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+#l2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 8px ;
+}
+
+#l2-p{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+#l3{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 8px ;
+}
+
+#l3-p{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 12px;
+    margin-left: 8px;
 }
