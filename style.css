@@ -2,7 +2,8 @@ body,html {
    height: 100vh;
    width: 100%;
    overflow: hidden;
-   background-color: #A6ADB9;
+   /* background-color: #A6ADB9; */
+   background-color: #2E3137;
    margin: 0; /* Elimina el margen */
    padding: 0;
 }
@@ -28,7 +29,7 @@ body,html {
 
 #img{
     margin-left: 45px;
-    border-radius: 20px;
+    border-radius: 40px;
 }
 
 #inicio{
